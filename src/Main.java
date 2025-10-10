@@ -14,5 +14,6 @@ public class Main {
         double media = (8.2 + 6.0 + 9.0)/3;
 
         System.out.println(media);
+        System.out.println("Hola");
     }
 }
